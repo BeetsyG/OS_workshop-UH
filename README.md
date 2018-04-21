@@ -2,3 +2,5 @@
 Files from UH Open Science workshop 4/21/18
 
 This project is my first attempt at a GitHub repository.
+
+I will try to learn how it works.
